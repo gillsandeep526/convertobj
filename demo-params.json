@@ -1,6 +1,9 @@
 
 {
     "Parameters": {
-      "ParamValue": "Demo"
+      "ParamValue": "Demo",
+       "EnvironmentType": "dev",
+        "ParamName": "TestParam",
+        "ParamDescription": 3
     }
 }
